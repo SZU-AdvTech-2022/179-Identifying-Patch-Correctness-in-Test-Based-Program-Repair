@@ -1,0 +1,7 @@
+@inproceedings{REPO-180,
+    author = "Xiong, Yingfei and Liu, Xinyuan and Zeng, Muhan and Zhang, Lu and Huang, Gang",
+    booktitle = "Proceedings of the 40th international conference on software engineering",
+    pages = "789--799",
+    title = "{Identifying Patch Correctness in Test-Based Program Repair}",
+    year = "2018"
+}
